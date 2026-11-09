@@ -8,10 +8,10 @@
 
 | No. | Full Name | Student ID | Group |
 |---|---|---|---|
-| 1 | Kim David | [STUDENT ID] | E40B |
-| 2 | Lim Artyom | [STUDENT ID] | E40A |
-| 3 | Malyuchenko Bogdan | [STUDENT ID] | E40B |
-| 4 | Nurjanov Kamal | [STUDENT ID] | E40A |
+| 1 | Kim David | [202390211] | E40B |
+| 2 | Lim Artyom | [202390259] | E40A |
+| 3 | Malyuchenko Bogdan | [202390210] | E40B |
+| 4 | Nurjanov Kamal | [202390212] | E40A |
 
 ## 1. Project Overview
 
